@@ -8,9 +8,11 @@
 
 At my tech happyfresh, Iam a technical lead to giving a best approach and best practice to handle every feature. I use Golang, Java, Kotlin, Swift, Bitbucket Pipelines, Sentry and Jenkins.
 
-💞️ I’m looking to collaborate on mobile development and web 3.0 projects.
+💞️ I’m looking to collaborate on mobile development, backend and web 3.0 projects.
 
 📫 How to reach me - raldeskrisnu@gmail.com
+
+:love_you_gesture: Sometimes code the other things to make a fun and new knowledge
 
 ## 🖥 Skills and tech stack :
 ### Mobile Stack
@@ -20,16 +22,18 @@ At my tech happyfresh, Iam a technical lead to giving a best approach and best p
 - MVVM Design pattern
 - Coroutines
 - RxJava
-- Huawei appgalery
+- Swift
+- Huawei AppGallery
 
 ### Backend Stack
 - Java
 - Kotlin
 - Golang
-- Javascript
+- Express JS
 - Laravel
 - Postgres
 - Mysql
+- AWS
 
 ### Frontend Stack
 - Javascript
