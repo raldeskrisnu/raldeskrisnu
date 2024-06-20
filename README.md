@@ -6,7 +6,7 @@
 
 👀 A polyglot developer with more than 10 years industry experience in Java, Kotlin, Golang, Javascript, Dart, Mobile development (Ios and android), serverless & cloud technologies (AWS & GCP)
 
-At my tech happyfresh, Iam a technical lead to giving a best approach and best practice to handle every feature. I use Golang, Java, Kotlin, Swift, Bitbucket Pipelines, Sentry and Jenkins.
+At my tech verint, Iam a technical lead to giving a best approach and best practice to handle every feature. I use Golang, Java, Kotlin, Swift, Bitbucket Pipelines, Sentry and Jenkins.
 
 💞️ I’m looking to collaborate on mobile development, backend and web 3.0 projects.
 
