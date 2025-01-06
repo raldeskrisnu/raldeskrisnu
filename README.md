@@ -1,6 +1,6 @@
 ## 👨 Introduction :
 
-👋 Hi, I’m @raldeskrisnu, Technical Lead @ Verint and i'm a fullstack engineer
+👋 Hi, I’m @raldeskrisnu, Solutions Architect @ CIMB Niaga and i'm a fullstack engineer
 
 🌱 I’m currently interested in WEB3.0 projects and interested with blockchain technology.
 
